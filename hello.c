@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-printf("farhana");
+printf("farhana thatha");
 printf("hello world");
  
 }

@@ -3,6 +3,6 @@ void main()
 {
 printf("farhana thatha");
 printf("hello world");
-printf("makri");
+printf("makri thatha");
  
 }
